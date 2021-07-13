@@ -65,3 +65,10 @@ scrollReveal.reveal(
   `,
   { interval: 100 }
 )
+
+const scrollReveal = ScrollReveal({
+  origin: 'top',
+  distance: '30px',
+  duration: 700,
+  reset: true
+})
