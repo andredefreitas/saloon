@@ -1,6 +1,12 @@
-# website.rocketseat
+🚀 Tecnologias
+* Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-MEDIA QUERIES
+* HTML
+* CSS
+* JavaScript
 
-1200 9800 780
-###BUILDING###
+#############################################################
+* Formato One Page
+* Responsiva
+* Para usar em diversos tipos de micro, pequena e média empresas.
+* Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer.
